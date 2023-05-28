@@ -1,0 +1,16 @@
+
+.dash-post-img{
+    width: 130px;
+    order: 2;
+}
+.input-field{
+    width: 90%;
+    border: 0;
+    outline: none;
+    font-size: 17px;
+}
+.search-content{
+    background-color: #fff;
+    display: flex;
+    padding: 10px;
+}

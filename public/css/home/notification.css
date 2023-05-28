@@ -1,0 +1,18 @@
+.not-card{
+    background-color: #fff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;    width: 300px;
+    position: fixed;
+    bottom: 85%;
+    left: 14%;
+    display: none;
+}
+.nav-item{
+    cursor: pointer;
+}
+#tested{
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.notifica:hover{
+    background-color: #f0ebeb;
+}
